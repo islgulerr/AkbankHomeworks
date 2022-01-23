@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c3aefc99-12bc-4366-bfba-af78743ddb81": {
+      "ProjectGuid": "c3aefc99-12bc-4366-bfba-af78743ddb81",
+      "DisplayName": "BookSellerAPI",
+      "ColorIndex": 0
+    },
+    "cefb1364-8618-4095-b8dd-47c328a6a340": {
+      "ProjectGuid": "cefb1364-8618-4095-b8dd-47c328a6a340",
+      "DisplayName": "DAL",
+      "ColorIndex": 1
+    },
+    "72dae51b-9d03-4bff-8916-a4da60e3b1fe": {
+      "ProjectGuid": "72dae51b-9d03-4bff-8916-a4da60e3b1fe",
+      "DisplayName": "EFLibCore",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

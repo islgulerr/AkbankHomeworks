@@ -1,0 +1,17 @@
+C:\Users\isil.guler\source\repos\BookSellerAPI\EFLibCore\bin\Debug\net6.0\EFLibCore.deps.json
+C:\Users\isil.guler\source\repos\BookSellerAPI\EFLibCore\bin\Debug\net6.0\EFLibCore.runtimeconfig.json
+C:\Users\isil.guler\source\repos\BookSellerAPI\EFLibCore\bin\Debug\net6.0\EFLibCore.dll
+C:\Users\isil.guler\source\repos\BookSellerAPI\EFLibCore\bin\Debug\net6.0\ref\EFLibCore.dll
+C:\Users\isil.guler\source\repos\BookSellerAPI\EFLibCore\bin\Debug\net6.0\EFLibCore.pdb
+C:\Users\isil.guler\source\repos\BookSellerAPI\EFLibCore\bin\Debug\net6.0\DAL.dll
+C:\Users\isil.guler\source\repos\BookSellerAPI\EFLibCore\bin\Debug\net6.0\DAL.pdb
+C:\Users\isil.guler\source\repos\BookSellerAPI\EFLibCore\obj\Debug\net6.0\EFLibCore.csproj.AssemblyReference.cache
+C:\Users\isil.guler\source\repos\BookSellerAPI\EFLibCore\obj\Debug\net6.0\EFLibCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isil.guler\source\repos\BookSellerAPI\EFLibCore\obj\Debug\net6.0\EFLibCore.AssemblyInfoInputs.cache
+C:\Users\isil.guler\source\repos\BookSellerAPI\EFLibCore\obj\Debug\net6.0\EFLibCore.AssemblyInfo.cs
+C:\Users\isil.guler\source\repos\BookSellerAPI\EFLibCore\obj\Debug\net6.0\EFLibCore.csproj.CoreCompileInputs.cache
+C:\Users\isil.guler\source\repos\BookSellerAPI\EFLibCore\obj\Debug\net6.0\EFLibCore.csproj.CopyComplete
+C:\Users\isil.guler\source\repos\BookSellerAPI\EFLibCore\obj\Debug\net6.0\EFLibCore.dll
+C:\Users\isil.guler\source\repos\BookSellerAPI\EFLibCore\obj\Debug\net6.0\ref\EFLibCore.dll
+C:\Users\isil.guler\source\repos\BookSellerAPI\EFLibCore\obj\Debug\net6.0\EFLibCore.pdb
+C:\Users\isil.guler\source\repos\BookSellerAPI\EFLibCore\obj\Debug\net6.0\EFLibCore.genruntimeconfig.cache
